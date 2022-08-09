@@ -11,4 +11,4 @@ function minArray(number) {
 }
 const arr = [252, 133, 144, 150, 9, 19, 56, 250];
 const small = minArray(arr);
-// console.log(small);
+console.log(small);
